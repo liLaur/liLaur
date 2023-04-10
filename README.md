@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @liLaur
-- 👀 I’m interested in Web Design and Game Development
-- 🎂 I’m 16
+- 👀 I’m interested in Web Design and Game Development and App Development
 - 📗 I learn fast ;)
 
 <!---
